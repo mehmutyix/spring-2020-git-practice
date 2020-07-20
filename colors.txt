@@ -4,4 +4,5 @@ blue
 green
 brown
 purple
+yellow
 white
